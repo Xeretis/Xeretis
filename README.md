@@ -2,9 +2,11 @@
 
 <p align="center">I'm a high school student in Hungary interested in all that's programming. I'm currently learning c++ and I'm making all sorts of libraries. Here are my Github stats :)</p>
 
+<p align="center">
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" align="right" width="340"/>
 
 <p align="left">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Xeretis&count_private=true&theme=tokyonight&hide=prs" width="500" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xeretis&layout=compact&theme=tokyonight" width="500" />
+</p>
 </p>
