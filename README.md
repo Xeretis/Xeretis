@@ -6,8 +6,8 @@
   <tr>
     <td>
       <div align="center" valign="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Xeretis&count_private=true&theme=tokyonight&hide=prs" width="500" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xeretis&layout=compact&theme=tokyonight" width="500" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Xeretis&count_private=true&theme=tokyonight&hide=prs&hide_border=true" width="500" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xeretis&layout=compact&theme=tokyonight&hide_border=true" width="500" />
       </div>
     </td>
     <td>
